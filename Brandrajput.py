@@ -222,7 +222,7 @@ def menu():
 		keluar()
 	os.system("clear")
 	print logo
-	print "\033[1;36;40m      
+	
 033[1;36;40m   ██████╗░░█████╗░███╗░░██╗░█████╗░
 033[1;36;40m   ██╔══██╗██╔══██╗████╗░██║██╔══██╗
 033[1;36;40m   ██████╔╝███████║██╔██╗██║███████║
@@ -326,10 +326,10 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Cloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
-	print "   \033[1;92m●══════════════════◄►══════════════════●"
+	print "   \033[1;92m●══════════════════◄Rana►══════════════════●"
 
-	print('           \033[1;91mmohammad start cloning Wait...')
-	print  "  \033[1;92m ●══════════════════◄►══════════════════●" 
+	print('           \033[1;91mNadeemRajput start cloning Wait...')
+	print  "  \033[1;92m ●══════════════════◄Nadeem►══════════════════●" 
 
 	def main(arg):
 		global cekpoint,oks
@@ -504,7 +504,7 @@ def pilih_super():
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mRajput_Brand\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By Rana Nadeem Rajput--•◈•---»" #Dev:RajputBrand
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 RajputBrand.py)↩\033[1;97m....'
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Brandrajput.py)↩\033[1;97m....'
 	print"\033[1;91mTotal [Rana_Hacked]/\x1b[1;95m[Rana_Cp]\033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print logo
 	
